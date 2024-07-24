@@ -1,0 +1,2 @@
+# obsidianNote
+笔记
