@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "7eabc4aa3c7b79ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2ada66a28726e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "564c9a052649184a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a422231ad377cebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "springboot/springboot3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6603d9a08b383c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "027d26a8d5c0b02d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ebfe6a79965ab25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97297bea29704575",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ebb083c288628e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "456091efa670ec16",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6f6c3aa6a23e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a4c16560e48aead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "springboot/springboot3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "415ff1677f317946",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "springboot/springboot3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a77cb6401272f6c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3825b25fd987cfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "springboot/springboot3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a422231ad377cebc",
+  "lastOpenFiles": [
+    "markdown语法.md",
+    "springboot/springboot3.md",
+    "springboot",
+    "vue",
+    "创建链接.md"
+  ]
+}
